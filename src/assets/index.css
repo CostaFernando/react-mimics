@@ -32,6 +32,10 @@ button {
 	cursor: pointer;
 }
 
+p {
+	padding: 8px 8px;
+}
+
 /* Flex */
 .row {
 	display: flex;
