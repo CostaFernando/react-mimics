@@ -8,6 +8,8 @@ O jogo possui uma lista de palavras, uma palavra é sorteada a cada rodada, onde
 
 É simulada uma chamada a uma Mock API para pegar as palavras, para que seja realizado o tratamento de chamadas assíncronas dentro de um Hook (useEffect).
 
+Além disso, também são implementadas rotas, com react-router-dom, para uma página de instruções.
+
 O jogo pode ser acessado online neste link: https://react-mimics.vercel.app/.
 
 Abaixo, você encontra instruções padrão do React para rodar localmente.
