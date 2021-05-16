@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Jogo de Mímica (Mimics) em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Jogo simples de Mímica feito em React com uso de Hooks.
+
+![jogo de mímica](https://user-images.githubusercontent.com/17749414/118404766-a8289880-b64a-11eb-8c30-9925e79011cc.png)
+
+O jogo possui uma lista de palavras, uma palavra é sorteada a cada rodada, onde uma pessoa do time deve tentar fazer seu time advinhar a palavra fazendo mímica (não vale falar!). Cada rodada tem um tempo limite, se o time não conseguir acertar a palavra antes do tempo acabar, perde sua vez e é a vez do outro time, onde será sorteada nova palavra.
+
+O jogo pode ser acessado online neste link: https://react-mimics.vercel.app/.
+
+Abaixo, você encontra instruções padrão do React para rodar localmente.
 
 ## Available Scripts
 
