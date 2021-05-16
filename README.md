@@ -6,6 +6,8 @@ Jogo simples de Mímica feito em React com uso de Hooks.
 
 O jogo possui uma lista de palavras, uma palavra é sorteada a cada rodada, onde uma pessoa do time deve tentar fazer seu time advinhar a palavra fazendo mímica (não vale falar!). Cada rodada tem um tempo limite, se o time não conseguir acertar a palavra antes do tempo acabar, perde sua vez e é a vez do outro time, onde será sorteada nova palavra.
 
+É simulada uma chamada a uma Mock API para pegar as palavras, para que seja realizado o tratamento de chamadas assíncronas dentro de um Hook (useEffect).
+
 O jogo pode ser acessado online neste link: https://react-mimics.vercel.app/.
 
 Abaixo, você encontra instruções padrão do React para rodar localmente.
